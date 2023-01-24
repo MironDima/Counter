@@ -1,0 +1,4 @@
+# Counter
++ increment
+- dicrement
+ reset
