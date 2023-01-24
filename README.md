@@ -1,4 +1,4 @@
 # Counter
-##"+" increment,
-##"-" dicrement
-##reset
+##1"+" increment,
+##2"-" dicrement
+##3reset
